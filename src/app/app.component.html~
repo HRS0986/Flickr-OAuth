@@ -1,5 +1,0 @@
-<h1>Flickr oAuth</h1>
-
-<div class="btn">
-<button mat-raised-button color="primary" (click)="getData()" > Login With Flickr </button>
-</div>
